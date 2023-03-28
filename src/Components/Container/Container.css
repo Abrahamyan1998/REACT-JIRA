@@ -1,0 +1,17 @@
+.container {
+    width: 1600px;
+    margin: 0 auto;
+}
+
+.columns {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    gap: 20px;
+    padding: 0 30px;
+}
+
+.column{
+    padding: 10px;
+    box-shadow: 5px 5px 15px rgb(255, 255, 255);
+}
